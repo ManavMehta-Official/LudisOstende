@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LudisOstende/static/css/main.79d88ec7.css",
+    "main.js": "/LudisOstende/static/js/main.87abcbfb.js",
+    "static/js/787.0bb8bdb8.chunk.js": "/LudisOstende/static/js/787.0bb8bdb8.chunk.js",
+    "static/media/live-event.png": "/LudisOstende/static/media/live-event.7049989ed770f31f90a3.png",
+    "static/media/shoe3.jpeg": "/LudisOstende/static/media/shoe3.3cef3d992d434f9dd9d8.jpeg",
+    "static/media/galleryImg.jpeg": "/LudisOstende/static/media/galleryImg.38698d685eb665ef8b0f.jpeg",
+    "static/media/shoe.png": "/LudisOstende/static/media/shoe.e880a006ebf87a0a2849.png",
+    "static/media/galleryImg2.jpeg": "/LudisOstende/static/media/galleryImg2.efebbd8e8bae2a90161d.jpeg",
+    "static/media/galleryImg1.jpeg": "/LudisOstende/static/media/galleryImg1.65bac4abc9cae1f4de32.jpeg",
+    "static/media/shoe1.jpeg": "/LudisOstende/static/media/shoe1.60876877d9da413467cc.jpeg",
+    "static/media/shoe2.jpeg": "/LudisOstende/static/media/shoe2.a6a92b3860670afdd5c7.jpeg",
+    "index.html": "/LudisOstende/index.html",
+    "main.79d88ec7.css.map": "/LudisOstende/static/css/main.79d88ec7.css.map",
+    "main.87abcbfb.js.map": "/LudisOstende/static/js/main.87abcbfb.js.map",
+    "787.0bb8bdb8.chunk.js.map": "/LudisOstende/static/js/787.0bb8bdb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d88ec7.css",
+    "static/js/main.87abcbfb.js"
+  ]
+}
