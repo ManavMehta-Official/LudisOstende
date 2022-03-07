@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+  --main-font: 'Smooch Sans', sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}
+
+body{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  overflow-x: hidden !important;
+}
+
+.alert{
+  border-radius: 0rem;
+  background-color: rgb(0, 110, 255);
+  border: none;
+  color: white !important;
+}
+
+.close:hover{
+  color: white;
+}
