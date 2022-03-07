@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LudisOstende/static/css/main.79d88ec7.css",
-    "main.js": "/LudisOstende/static/js/main.87abcbfb.js",
+    "main.js": "/LudisOstende/static/js/main.2781d3d2.js",
     "static/js/787.0bb8bdb8.chunk.js": "/LudisOstende/static/js/787.0bb8bdb8.chunk.js",
     "static/media/live-event.png": "/LudisOstende/static/media/live-event.7049989ed770f31f90a3.png",
     "static/media/shoe3.jpeg": "/LudisOstende/static/media/shoe3.3cef3d992d434f9dd9d8.jpeg",
@@ -13,11 +13,11 @@
     "static/media/shoe2.jpeg": "/LudisOstende/static/media/shoe2.a6a92b3860670afdd5c7.jpeg",
     "index.html": "/LudisOstende/index.html",
     "main.79d88ec7.css.map": "/LudisOstende/static/css/main.79d88ec7.css.map",
-    "main.87abcbfb.js.map": "/LudisOstende/static/js/main.87abcbfb.js.map",
+    "main.2781d3d2.js.map": "/LudisOstende/static/js/main.2781d3d2.js.map",
     "787.0bb8bdb8.chunk.js.map": "/LudisOstende/static/js/787.0bb8bdb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d88ec7.css",
-    "static/js/main.87abcbfb.js"
+    "static/js/main.2781d3d2.js"
   ]
 }
